@@ -37,7 +37,6 @@ def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                     InlineKeyboardButton('𝐀𝐃𝐃 𝐌𝐄 🤗', url='https://t.me/SongProBot?startgroup=true')
-                ]
             ]
         )
     )
